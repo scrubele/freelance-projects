@@ -1,0 +1,43 @@
+	Recipe	Poultry	Beef	Pork	Seafood	Vegetarian	Italian	FrenchGreek	Indian	Mexican	Asian	NorthAmComfort	FullyCooked	QuickPrep	FreshMeal	Serves2	Serves4
+0	Tomato Pesto Chicken Alfredo	True	False	False	False	False	True	False	False	False	False	False	False	False	True	True	False
+1	Oven-Baked Fish & Chips	False	False	False	True	False	False	False	False	False	False	True	False	False	True	True	False
+2	Chicken Souvlaki Platter	True	False	False	False	False	False	True	False	False	False	False	False	False	True	True	False
+3	Maple Mustard Salmon	False	False	False	True	False	False	True	False	False	False	False	False	False	True	True	False
+4	Oaxacan Pork Tacos	False	True	True	False	False	False	False	False	True	False	False	False	False	True	True	False
+5	Bangkok Vegetable Pad Thai	False	False	False	False	True	False	False	False	False	True	False	False	False	True	True	False
+6	Mac and Cheese au Gratin	False	False	False	False	True	False	True	False	False	False	False	False	False	True	True	False
+7	Beef & Spinach Lasagna Meal Box	False	True	False	False	False	True	False	False	False	False	False	False	False	True	False	True
+8	Uncooked Chicken Parmesan 	True	False	False	False	False	True	False	False	False	False	False	False	False	True	False	True
+9	Shepherd's Pie Meal Box	False	True	False	False	False	False	False	False	False	False	True	False	False	True	False	True
+10	Uncooked, Beef & Broccoli Stirfry Meal Box	False	True	False	False	False	False	False	False	False	True	False	False	False	True	False	True
+11	Uncooked Butter Chicken With Rice Meal Box	True	False	False	False	False	False	False	True	False	False	False	False	False	True	False	True
+12	Broccoli Rice Crunch Salad Kit	False	False	False	False	True	False	False	False	False	False	True	False	True	False	True	False
+13	Penne Rose with Chicken Pasta Kit	True	False	False	False	False	True	False	False	False	False	False	False	True	False	True	False
+14	Spaghetti Meatballs Pasta Kit	False	True	False	False	False	True	False	False	False	False	False	False	True	False	True	False
+15	Penne Alfredo Pasta Kit	False	False	False	False	True	True	False	False	False	False	False	False	True	False	True	False
+16	Rainbow Kale Coleslaw Salad Kit	False	False	False	False	True	False	False	False	False	False	True	False	True	False	True	False
+17	Mushroom Risotto Kit	False	False	False	False	True	True	False	False	False	False	False	False	True	False	True	False
+18	Linguine Carbonara Pasta Kit	False	False	False	False	True	True	False	False	False	False	False	False	True	False	True	False
+19	Tortellini Rose Pasta Kit	False	False	False	False	True	True	False	False	False	False	False	False	True	False	True	False
+20	Greek Style Pasta Salad Kit	False	False	False	False	True	False	True	False	False	False	False	False	True	False	True	False
+21	Butter Chicken Explore Kit	True	False	False	False	False	False	False	True	False	False	False	False	True	False	True	False
+22	General Tso Chicken Stirfry	True	False	False	False	False	False	False	False	False	True	False	False	True	False	True	False
+23	Mexican Style Burrito Bowl Stirfry	True	False	False	False	False	False	False	False	True	False	False	False	True	False	True	False
+24	Chefs Chicken Biryani Explore Kit	True	False	False	False	False	False	False	True	False	False	False	False	True	False	True	False
+25	Hakka Style Shanghai Chicken Explore Kit	True	False	False	False	False	False	False	False	False	True	False	False	True	False	True	False
+26	Asian Style Beef Broccoli Stirfry	False	True	False	False	False	False	False	False	False	True	False	False	True	False	True	False
+27	Szechuan Style Quinoa Veggies Stirfry Kit	False	False	False	False	True	False	False	False	False	True	False	False	True	False	True	False
+28	Thai Style Green Curry Chicken Stirfry	True	False	False	False	False	False	False	False	False	True	False	False	True	False	True	False
+29	Chicken Tikka Masala Explore Kit	True	False	False	False	False	False	False	True	False	False	False	False	True	False	True	False
+30	Hakka Style Manchurian Beef	False	True	False	False	False	False	False	False	False	True	False	False	True	False	True	False
+31	Chicken Pad Thai Stirfry Kit	True	False	False	False	False	False	False	False	False	True	False	False	True	False	True	False
+32	Cabbage Rolls	False	True	False	False	False	False	False	False	False	False	True	True	False	False	False	True
+33	Shepherd Pie	False	True	False	False	False	False	False	False	False	False	True	True	False	False	False	True
+34	Meat Cannelloni	False	True	False	False	False	True	False	False	False	False	False	True	False	False	False	True
+35	Meat Lasagna	False	True	False	False	False	True	False	False	False	False	False	True	False	False	False	True
+36	Chicken Parmesan	True	False	False	False	False	True	False	False	False	False	False	True	False	False	True	False
+37	Peppercorn-Crusted Steak	False	True	False	False	False	False	False	False	False	False	True	False	False	True	True	False
+38	Turkey Pot Pie	True	False	False	False	False	False	False	False	False	False	True	False	False	True	True	False
+39	Chili Con Carne	False	True	False	False	False	False	False	False	True	False	False	False	False	True	False	True
+40	Southwestern Cauliflower Tostadas	False	False	False	False	True	False	False	False	True	False	False	False	False	True	True	False
+41	Butter Chicken	True	False	False	False	False	False	False	True	False	False	False	False	False	True	True	False
