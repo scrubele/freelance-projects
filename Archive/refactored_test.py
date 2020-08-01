@@ -38,7 +38,7 @@ def setup_argument_parser():
             -v: the verbosity flag
                 This works for -vvvv, -vvv, -vv, -v, -v -v , etc.
                 0 - logging.CRITICAL, 1- logging.ERROR, 2- logging.WARNING,3- logging.INFO, 4-logging.DEBUG
-            other env variables:
+            env variables:
                 Example:
                     python test.py --EMAIL_ADDRESS_REPORT=1
                 Use in file as:
