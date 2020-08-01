@@ -16,7 +16,7 @@ import mysql.connector
 import mysql.connector
 from cryptography.fernet import Fernet
 
-# from Extracttext_from_logo2 import *
+from Extracttext_from_logo2 import *
 
 
 START_TIME = dt.now()
@@ -26,9 +26,9 @@ REGEX_TO_FIND = "bmw"
 
 
 # These values coming from the bash file:
-# SOURCE = sys.argv[1]
-# SOURCE_BKP = sys.argv[2]
-# INSERT_TABLE_NAME = "{}".format(sys.argv[3])
+SOURCE = sys.argv[1]
+SOURCE_BKP = sys.argv[2]
+INSERT_TABLE_NAME = "{}".format(sys.argv[3])
 
 
 def setup_argument_parser():
@@ -48,19 +48,19 @@ def setup_argument_parser():
     parser = argparse.ArgumentParser(prog=__name__)
     parser.add_argument('--verbose', '-v', default=0, action='count')
     parser.add_argument('--EMAIL_ADDRESS_REPORT', action='store', required=False)
-    # parser.add_argument('--inbound_GHB_path', action='store', required=False)
-    # parser.add_argument('--EMAIL_ADDRESS12_REPORT', action='store', required=False)
-    # parser.add_argument('--PASSWORD', action='store',  required=False)
-    # parser.add_argument('--EMAIL_USER', action='store', required=False)
-    # parser.add_argument('--EMAIL_HOST', action='store', required=False)
-    # parser.add_argument('--AUTOMATE_PYTHON_PATH', action='store', required=False)
-    # parser.add_argument('--MYSQL_HOST', action='store', required=False)
-    # parser.add_argument('--MYSQL_DATABASE', action='store', required=False)
-    # parser.add_argument('--MYSQL_PORT', action='store', required=False)
-    # parser.add_argument('--MYSQL_USER', action='store', required=False)
-    # parser.add_argument('--MYSQL_PASSWORD', action='store', required=False)
+    parser.add_argument('--inbound_GHB_path', action='store', required=False)
+    parser.add_argument('--EMAIL_ADDRESS12_REPORT', action='store', required=False)
+    parser.add_argument('--PASSWORD', action='store',  required=False)
+    parser.add_argument('--EMAIL_USER', action='store', required=False)
+    parser.add_argument('--EMAIL_HOST', action='store', required=False)
+    parser.add_argument('--AUTOMATE_PYTHON_PATH', action='store', required=False)
+    parser.add_argument('--MYSQL_HOST', action='store', required=False)
+    parser.add_argument('--MYSQL_DATABASE', action='store', required=False)
+    parser.add_argument('--MYSQL_PORT', action='store', required=False)
+    parser.add_argument('--MYSQL_USER', action='store', required=False)
+    parser.add_argument('--MYSQL_PASSWORD', action='store', required=False)
 
-    # Non necessary, for the access through -e flag:
+    # Not necessary now, for the access through -e flag:
     # parser.add_argument('--env_vars', '-e', nargs='+', help='<Required> Set flag', required=True)
 
     global args  # make args var accessible in the whole file
